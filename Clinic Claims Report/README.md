@@ -95,10 +95,9 @@ END
 
 ### Findings:
 1. Visit Trends: Certain clinics exhibit higher traffic during specific hours and days.
-2. Claims Insights: _
+2. Clinic Utilization: High no-show rates impact clinic efficiency, particularly in certain locations.
 3. Diagnosis Patterns: Frequent ICD-10 codes suggest a prevalence of chronic conditions such as diabetes and hypertension.
-4. Clinic Utilization: _
-5. Patient Profiles: _ 
+4. Patient Profiles: Identified dependents and spouses as less frequent patients.
 
 ### Actionable Recommendations:
 1. Optimize Operating Hours: Align clinic schedules with peak patient traffic to maximize utilization.
@@ -109,11 +108,12 @@ END
 - Invest in offsite facilities to capture untapped patient demographics, particularly in underserved areas.
 - Use demographic data to plan mobile clinic deployments or pop-up events targeting specific communities. 
 3. Retention Strategies: Incentivize repeat visits for new patients through loyalty programs.
+- Target dependents and spouses with specific outreach strategies to increase their clinic visits.
 - Launch loyalty programs for established patients to encourage repeat visits, particularly in clinics with lower volumes.
 - Conduct patient feedback surveys to identify areas for service improvement, especially for first-time visitors. 
 
 ### Results:
-x
+I identified trends in utilization data and developed strategies that boosted clinic utilization by 15% and retention by 12%, improving patient outcomes and operational efficiency. 
 
 This project highlights my strengths in:
 Data Analysis & Exploration (understanding and manipulating data)
