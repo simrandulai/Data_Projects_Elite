@@ -1,4 +1,4 @@
-This project highlights my work on creating a SQL pivot to calculate Total Available Hours for clinics and their providers. The objective was to showcase advanced SQL skills by deriving meaningful insights from operational clinic data.
+This project highlights my work on creating a SQL pivot to calculate Total Available Hours for clinics and their providers. This pivot table was used as the base table for the Clinic Utilization Report I created in Tableau. The objective was to showcase advanced SQL skills by deriving meaningful insights from operational clinic data.
 
 ### Table of Contents
 | File Number | Title | Description |
