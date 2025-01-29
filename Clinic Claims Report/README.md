@@ -6,7 +6,11 @@ This project showcases a Tableau Visualization built to analyze and monitor clin
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Amazon%20Books/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
+| 2 | [Claims- Data Source.png](https://github.com/simrandulai/Data_Projects_Elite/blob/main/Clinic%20Claims%20Report/Claims-%20Data%20Source.png) | A png file with relationships for multi-table data analysis. |
+| 3 | [Visit Information.png](https://github.com/simrandulai/Data_Projects_Elite/blob/main/Clinic%20Claims%20Report/Visit%20Information.png) | A png file with the Visit Information dashboard. |
+| 4 | [ICD-10 & CPT Codes.png](https://github.com/simrandulai/Data_Projects_Elite/blob/main/Clinic%20Claims%20Report/ICD-10%20%26%20CPT%20Codes.png) | A png file with ICD-10 & CPT Codes dashboard. |
+| 5 | [Patient Demographic.png](https://github.com/simrandulai/Data_Projects_Elite/blob/main/Clinic%20Claims%20Report/Patient%20Demographics.png) | A png file with the Patient Demographic dashboard. |
+| 6 | [Appointment Date.png](https://github.com/simrandulai/Data_Projects_Elite/blob/main/Clinic%20Claims%20Report/Appointment%20Date.png) | A png file with the Appointment Date dashboard. |
 
 | Section Title | Description |
 | ----------- |----------- |
