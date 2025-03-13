@@ -105,8 +105,7 @@ END
 - Address the higher no-show rates by implementing reminders or offering virtual visit options. 
 2. Outreach Campaigns: Use ICD-10 insights to organize educational health events targeting chronic conditions.
 - Organize educational campaigns and health events focused on managing chronic conditions such as diabetes and hypertension.
-- Invest in offsite facilities to capture untapped patient demographics, particularly in underserved areas.
-- Use demographic data to plan mobile clinic deployments or pop-up events targeting specific communities. 
+- Use demographic data to plan field events and health screenings targeting specific communities. 
 3. Retention Strategies: Incentivize repeat visits for new patients through loyalty programs.
 - Target dependents and spouses with specific outreach strategies to increase their clinic visits.
 - Launch loyalty programs for established patients to encourage repeat visits, particularly in clinics with lower volumes.
